@@ -2,25 +2,25 @@
   "products": [
     {
       "id": 1,
-      "catergory": "jackets",
+      "category": "jackets",
       "name": "jacket1",
       "price": 299
     },
     {
       "id": 2,
-      "catergory": "jackets",
+      "category": "jackets",
       "name": "jacket2",
       "price": 500
     },
     {
       "id": 3,
-      "catergory": "jackets",
+      "category": "jackets",
       "name": "jacket3",
       "price": 787
     },
     {
       "id": 4,
-      "catergory": "trousers",
+      "category": "trousers",
       "name": "trouser1",
       "price": 79
     }
