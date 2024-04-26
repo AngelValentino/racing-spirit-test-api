@@ -4,25 +4,29 @@
       "id": 1,
       "category": "jackets",
       "name": "jacket1",
-      "price": 299
+      "price": 299,
+      "images": "https://i.imgur.com/2k3mDEs.jpg"
     },
     {
       "id": 2,
       "category": "jackets",
       "name": "jacket2",
-      "price": 500
+      "price": 500,
+      "images": "https://i.imgur.com/2k3mDEs.jpg"
     },
     {
       "id": 3,
       "category": "jackets",
       "name": "jacket3",
-      "price": 787
+      "price": 787,
+      "images": "https://i.imgur.com/2k3mDEs.jpg"
     },
     {
       "id": 4,
       "category": "trousers",
       "name": "trouser1",
-      "price": 79
+      "price": 79,
+      "images": "https://i.imgur.com/2k3mDEs.jpg"
     }
   ]
 }
