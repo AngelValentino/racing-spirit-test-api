@@ -1,32 +1,1564 @@
 {
   "products": [
-    {
-      "id": 1,
-      "category": "jackets",
-      "name": "jacket1",
-      "price": 299,
-      "images": "https://i.imgur.com/2k3mDEs.jpg"
-    },
-    {
-      "id": 2,
-      "category": "jackets",
-      "name": "jacket2",
-      "price": 500,
-      "images": "https://i.imgur.com/2k3mDEs.jpg"
-    },
-    {
-      "id": 3,
-      "category": "jackets",
-      "name": "jacket3",
-      "price": 787,
-      "images": "https://i.imgur.com/2k3mDEs.jpg"
-    },
-    {
-      "id": 4,
-      "category": "trousers",
-      "name": "trouser1",
-      "price": 79,
-      "images": "https://i.imgur.com/2k3mDEs.jpg"
-    }
+   {
+    "id": "be8337c8-4555-4647-a9e3-16d7e42ec0ce",
+    "title": "IH/Simmons Bilt C3 Style Jacket",
+    "type": "clothing",
+    "category": "jackets",
+    "price": 806,
+    "description": "One of our favourite jacket builds from Simmons Bilt. A 15mm sheepskin, aviator-style jacket, his Racing Spirit x Simmons Bilt collaboration jacket uses the highest quality materials and hardware and is built by one of the top sheepskin makers in the world.",
+    "images": [
+      {
+        "regular": "https://i.imgur.com/u13hDE5.jpg",
+        "small": "https://i.imgur.com/5hro1Uh.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/YlUJ5D8.jpg",
+        "small": "https://i.imgur.com/jvaX5fF.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/Vor16N2.jpg",
+        "small": "https://i.imgur.com/UEqjFhn.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/uJU30aR.jpg",
+        "small": "https://i.imgur.com/qP2Hpnd.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/1tvQ6II.jpg",
+        "small": "https://i.imgur.com/kRl6HqR.jpg"
+      }
+    ]
+   },
+   {
+    "id": "520bc950-04b2-464f-a49c-612c15940219",
+    "title": "21oz Selvedge Denim Type III - Indigo",
+    "type": "clothing",
+    "category": "jackets",
+    "price": 390,
+    "description": "A classic returns! Our original Type III jacket, made from our signature 21oz indigo Japanese selvedge denim. No modifications, just true to the original with a shorter body length and no side pockets.",
+    "images": [
+      {
+        "regular": "https://i.imgur.com/HXtyQrU.jpg",
+        "small": "https://i.imgur.com/aXdYqBT.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/2bOv57A.jpg",
+        "small": "https://i.imgur.com/AJ6TrLf.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/yTfBgJn.jpg",
+        "small": "https://i.imgur.com/dycHZFF.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/d3kjyQ3.jpg",
+        "small": "https://i.imgur.com/jEjAilW.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/DO7owEG.jpg",
+        "small": "https://i.imgur.com/FSMJaCy.jpg"
+      }
+    ]
+   },
+   {
+    "id": "df25c1c8-3c92-425e-aa29-385ed1e1f0c9",
+    "title": "Built Reversible Bomber Jacket",
+    "type": "clothing",
+    "category": "jackets",
+    "price": 370,
+    "description": "Reversible bomber jacket in durable water-repellent nylon with a quilted lining. Relaxed fit featuring a sleeve pocket, exterior flap pockets and interior welt pockets. Embroidery at the lower front.",
+    "images": [
+      {
+        "regular": "https://i.imgur.com/HruhIKb.jpg",
+        "small": "https://i.imgur.com/5eYWCpg.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/cEpv3uW.jpg",
+        "small": "https://i.imgur.com/ANCetW7.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/ygsI8HP.jpg",
+        "small": "https://i.imgur.com/BUnDvGV.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/cD3m8Og.jpg",
+        "small": "https://i.imgur.com/et5DwPY.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/jW8W8V2.jpg",
+        "small": "https://i.imgur.com/vEkfKeA.jpg"
+      }
+    ]
+   },
+   {
+    "id": "aeb6ec1e-a47b-492c-affe-882b153c1c08",
+    "title": "Ultra Heavy Flannel Buffalo Check Western Shirt - Red",
+    "type": "clothing",
+    "category": "shirts",
+    "price": 323,
+    "description": "To a great extent, our ultra heavy flannel (UHF) shirts define Racing Spirit: heavy, rugged, but amazingly wearable. The 12oz fabric is woven with Aspero cotton from the foothills of the Andes mountains. We double brush it on the inside and single brush it on the outside, resulting in a very soft yet substantial, thick, warm and windproof flannel. This shirt is a wardrobe staple - a western cut in red buffalo check.",
+    "images": [
+      {
+        "regular": "https://i.imgur.com/O35Ygim.jpg",
+        "small": "https://i.imgur.com/QcOzye6.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/rm07RAJ.jpg",
+        "small": "https://i.imgur.com/SBSkBJH.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/wMy55Zc.jpg",
+        "small": "https://i.imgur.com/sC5kmL7.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/kI1jtEw.jpg",
+        "small": "https://i.imgur.com/ZU5qtkS.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/hUYDOZp.jpg",
+        "small": "https://i.imgur.com/9hDokpb.jpg"
+      }
+    ]
+   },
+   {
+    "id": "883293a8-4c4d-4dcd-8c36-2515565e0656",
+    "title": "25oz Selvedge Denim Super Slim Cut Jeans - Indigo",
+    "type": "clothing",
+    "category": "trousers",
+    "price": 376,
+    "description": "Our medium/high rise super slim cut jean in our indigo 25oz denim. Woven with an indigo rope-dyed warp and a natural weft, this ultra heavy denim is at the limit of what can be made. Super-stiff when new and requires some \"breaking-in\"- with time and wear it becomes soft, pliable and very comfy.",
+    "images": [
+      {
+        "regular": "https://i.imgur.com/FS3ZxSC.jpg",
+        "small": "https://i.imgur.com/AMlTYt3.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/NCTlfn8.jpg",
+        "small": "https://i.imgur.com/iJk6X4k.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/B7op6Xr.jpg",
+        "small": "https://i.imgur.com/qvvacz7.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/6mnBkH2.jpg",
+        "small": "https://i.imgur.com/DZzO6ME.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/RS24CRK.jpg",
+        "small": "https://i.imgur.com/1RWhfpc.jpg"
+      }
+    ]
+   },
+   {
+    "id": "8ea7d00d-420a-4352-b0c8-8c360ca35be6",
+    "title": "6.5oz Loopwheel Crew Neck T-Shirt - Grey",
+    "type": "clothing",
+    "category": "t-shirts",
+    "price": 85,
+    "description": "A hefty 6.5oz loopwheel knitted cotton jersey t-shirt. Supremely soft yet extremely durable, these will hold their shape regardless of what you throw at them.",
+    "images": [
+      {
+        "regular": "https://i.imgur.com/kqOQG7f.jpg",
+        "small": "https://i.imgur.com/HVQW96Y.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/l5wRrnb.jpg",
+        "small": "https://i.imgur.com/TQIXi6u.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/fcCVXYU.jpg",
+        "small": "https://i.imgur.com/LJfkmKN.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/cUmWDPz.jpg",
+        "small": "https://i.imgur.com/Se15NsC.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/zgDc5L2.jpg",
+        "small": "https://i.imgur.com/eHiNSJ2.jpg"
+      }
+    ]
+   },
+   {
+    "id": "802f9388-938b-4cf8-9123-ca222057da46",
+    "title": "6.5oz Loopwheel Crew Neck T-Shirt - Navy",
+    "type": "clothing",
+    "category": "t-shirts",
+    "price": 85,
+    "description": "A hefty 6.5oz loopwheel knitted cotton jersey t-shirt. Supremely soft yet extremely durable, these will hold their shape regardless of what you throw at them.",
+    "images": [
+      {
+        "regular": "https://i.imgur.com/JuwIl4x.jpg",
+        "small": "https://i.imgur.com/10GZEPL.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/juTGR3y.jpg",
+        "small": "https://i.imgur.com/1HthXO2.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/zH1C6kd.jpg",
+        "small": "https://i.imgur.com/DEZ9nmO.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/V1yHZ78.jpg",
+        "small": "https://i.imgur.com/RZBAZpd.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/Yk9U3zk.jpg",
+        "small": "https://i.imgur.com/mTpfZeL.jpg"
+      }
+    ]
+   },
+   {
+    "id": "ba9b8ebd-5c57-4b2d-a9a1-bf38b785c799",
+    "title": "Racing Spirit x DicE x Giulio Miglietta Collaboration 21oz Non-Fade Denim Type III Vest with Patch - Superblack",
+    "type": "clothing",
+    "category": "vests",
+    "price": 493,
+    "description": "This very special collaboration between Racing Spirit, DicE Magazine and G.Miglietta comes in the form of our 21oz \"Superblack\" denim Type III vest, featuring limited edition, hand-embroidered patches. Generously sized to wear over your moto-leathers, both the warp and weft of the denim have been reactive dyed for a fade-resistant finish. Designed from world-renowned chainstitch maestro, Giulio Miglietta, the larger back patch comes pre-attached to the vest - whilst the smaller patch is provided separately (sewing kit included), giving you the option for positioning on either the left or right-hand breast of the vest.",
+    "images": [
+      {
+        "regular": "https://i.imgur.com/7v6deg3.jpg",
+        "small": "https://i.imgur.com/uRWbEpr.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/OkDrsoY.jpg",
+        "small": "https://i.imgur.com/xETMBiM.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/5DjF989.jpg",
+        "small": "https://i.imgur.com/A2eb7uK.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/KgCVKsR.jpg",
+        "small": "https://i.imgur.com/XbUMKt7.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/rKIsMwT.jpg",
+        "small": "https://i.imgur.com/VniCL9g.jpg"
+      }
+    ]
+   },
+   {
+    "id": "a272d2ac-ee80-4511-b441-2692328529dc",
+    "title": "Racing Spirit x Simmons Bilt Flight Jacket",
+    "type": "clothing",
+    "category": "jackets",
+    "price": 1299,
+    "description": "The Type ANJ-4 shearling sheepskin flying jacket was first introduced in 1943 and worn by the USAAF and the US Navy (replacing the Type-B-3). This Racing Spirit x Simmons Bilt collaboration jacket uses the highest quality materials and hardware, and is built by one of the top sheepskin artisans in the world. Whilst staying faithful to the original in appearance, for this iteration Haraki San has subtly tweaked the overall design to offer a greatly improved fit when compared to other reproductions.",
+    "images": [
+      {
+        "regular": "https://i.imgur.com/y0YXZyc.jpg",
+        "small": "https://i.imgur.com/HHXFLrk.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/OP492Wd.jpg",
+        "small": "https://i.imgur.com/bX9VanZ.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/XgaabGt.jpg",
+        "small": "https://i.imgur.com/ClSPF2x.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/c94ABqT.jpg",
+        "small": "https://i.imgur.com/JvC0s15.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/cXeFrQ8.jpg",
+        "small": "https://i.imgur.com/OWPBuES.jpg"
+      }
+    ]
+   },
+   {
+    "id": "e6093f1d-270e-4b15-9372-c8db5c0433e3",
+    "title": "21oz Denim Rider's Jacket - Indigo",
+    "type": "clothing",
+    "category": "jackets",
+    "price": 358,
+    "description": "Our traditional rider's jacket, constructed from 21oz Japanese indigo denim. Designed for a streamlined fit to increase wind resistance - this cut features zippered cuffs, a snap fastening collar and a tack button secured hem, with action bi-swing shoulders for increased manoeuvrability.",
+    "images": [
+      {
+        "regular": "https://i.imgur.com/GGjscrH.jpg",
+        "small": "https://i.imgur.com/JJAHMiI.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/DmzU1mV.jpg",
+        "small": "https://i.imgur.com/M3Ay6v2.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/T9TocbV.jpg",
+        "small": "https://i.imgur.com/YKzkbWa.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/BelEXAG.jpg",
+        "small": "https://i.imgur.com/vxpNJvC.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/P7h3NWK.jpg",
+        "small": "https://i.imgur.com/kZBGTlo.jpg"
+      }
+    ]
+   },
+   {
+    "id": "521d48e3-1c80-4ac8-ac1f-149ffe896010",
+    "title": "21oz Denim Rider's Jacket - Superblack Non-Fade",
+    "type": "clothing",
+    "category": "jackets",
+    "price": 403,
+    "description": "Our traditional rider's jacket, constructed from 21oz 'Superblack' non-fade Japanese denim. Designed for a streamlined fit to increase wind resistance - this cut features zippered cuffs, a snap fastening collar and a tack button secured hem, with action bi-swing shoulders for increased manoeuvrability.",
+    "images": [
+      {
+        "regular": "https://i.imgur.com/5KV4s1e.jpg",
+        "small": "https://i.imgur.com/HekgFca.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/dO81724.jpg",
+        "small": "https://i.imgur.com/n2h9Gjg.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/AimLTaB.jpg",
+        "small": "https://i.imgur.com/keolA9U.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/VkLglDf.jpg",
+        "small": "https://i.imgur.com/n1jV11H.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/ecze7fy.jpg",
+        "small": "https://i.imgur.com/W20e1n7.jpg"
+      }
+    ]
+   },
+   {
+    "id": "612c8b32-cd6a-43f8-8604-2d8d46455ec8",
+    "title": "12oz Selvedge Denim Western Shirt With Tonal Stitching - Indigo",
+    "type": "clothing",
+    "category": "shirts",
+    "price": 282,
+    "description": "Our classic western shirt made from one-washed 12oz indigo Japanese selvedge denim, with black Racing Spirit Permex snaps, tonal dark blue stitching, and chain stitch runoff. A must-have wardrobe staple that'll age beautifully over time.",
+    "images": [
+      {
+        "regular": "https://i.imgur.com/VfoIqee.jpg",
+        "small": "https://i.imgur.com/aPUlSQ5.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/80bdcpJ.jpg",
+        "small": "https://i.imgur.com/ZQVWCxx.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/EMBypcc.jpg",
+        "small": "https://i.imgur.com/BMEXAxM.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/2tAtguC.jpg",
+        "small": "https://i.imgur.com/J79MBbm.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/Gvu0p4p.jpg",
+        "small": "https://i.imgur.com/cWZjBB3.jpg"
+      }
+    ]
+   },
+   {
+    "id": "8b4e3d9a-a1eb-4ac9-82e1-5ac23ca36098",
+    "title": "Kersey Western Shirt - Indigo",
+    "type": "clothing",
+    "category": "shirts",
+    "price": 300,
+    "description": "A Racing Spirit original, made in Japan from Kersey fabric (a fabric originating from the English medieval times). A characteristic of the shirt is its thickness, soft and comfortable feel, as well as the twill texture and how it reacts with indigo leading to unique fading over time.",
+    "images": [
+      {
+        "regular": "https://i.imgur.com/CPimCcl.jpg",
+        "small": "https://i.imgur.com/MkgIcQg.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/DdaF94A.jpg",
+        "small": "https://i.imgur.com/4iTuWgV.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/ypvwbiM.jpg",
+        "small": "https://i.imgur.com/oQvzCfU.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/DI7BkKf.jpg",
+        "small": "https://i.imgur.com/FyJgYrG.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/NcSkBmE.jpg",
+        "small": "https://i.imgur.com/3q7sKFh.jpg"
+      }
+    ]
+   },
+   {
+    "id": "1f18d467-6ff8-4aac-b54b-ec64e363d26a",
+    "title": "12oz Wabash CPO Shirt - Indigo",
+    "type": "clothing",
+    "category": "shirts",
+    "price": 358,
+    "description": "We love our CPO style shirt pattern, so we found little reason not to make it out of our 12oz indigo wabash fabric. Featuring indigo rope dyed warp and weft yarns, you can expect the shirt to age beautifully. The dots are bleached in to the fabric post weave so will remain prominent as the indigo fades around it.",
+    "images": [
+      {
+        "regular": "https://i.imgur.com/aUravTD.jpg",
+        "small": "https://i.imgur.com/zqwJsCt.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/PfTAeo7.jpg",
+        "small": "https://i.imgur.com/XtMwJsA.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/IqPkPRq.jpg",
+        "small": "https://i.imgur.com/8MHSz5f.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/dvYpCje.jpg",
+        "small": "https://i.imgur.com/vVqt4Rb.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/2NzHsxo.jpg",
+        "small": "https://i.imgur.com/dcpEY4G.jpg"
+      }
+    ]
+   },
+   {
+    "id": "78b4545d-ffc7-45c1-96fe-0ed1bd1e636c",
+    "title": "12oz Wabash Painter's Pants - Indigo",
+    "type": "clothing",
+    "category": "trousers",
+    "price": 278,
+    "description": "Our classic painter's pants, constructed from authentic 12oz Japanese Wabash fabric. This mid-weight fabric is woven from individually rope-dyed yarns, with the dots bleached post-dye to create its distinctive pattern. With features including reinforced belt loops, triple-stitch construction, multiple pockets and a tool loop, these are hardwearing and practical work pants which deliver authentic heritage style.",
+    "images": [
+      {
+        "regular": "https://i.imgur.com/Rd96MXS.jpg",
+        "small": "https://i.imgur.com/5lVGN0M.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/j1fvzul.jpg",
+        "small": "https://i.imgur.com/7PxqqNu.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/U32pTCz.jpg",
+        "small": "https://i.imgur.com/7sD9UGX.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/tSkoCSo.jpg",
+        "small": "https://i.imgur.com/r9Z3OHV.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/1Y6J0Tc.jpg",
+        "small": "https://i.imgur.com/NqGp5Of.jpg"
+      }
+    ]
+   },
+   {
+    "id": "28d57324-b3e3-49d5-a59a-13c65ce499f2",
+    "title": "14oz Selvedge Denim Cargo Pants - Black",
+    "type": "clothing",
+    "category": "trousers",
+    "price": 381,
+    "description": "In collaboration with Division Road we have produced a cargo pant made from our 14oz black selvedge denim. The warp is black sulphur rope dyed, the weft is black sulphur dipped. Constructed with black tonal stitching. Will fade slowly to grey.",
+    "images": [
+      {
+        "regular": "https://i.imgur.com/pM0CvFf.jpg",
+        "small": "https://i.imgur.com/b6q3I6A.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/JbZW5BU.jpg",
+        "small": "https://i.imgur.com/5CshPqu.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/1DVfs56.jpg",
+        "small": "https://i.imgur.com/fdrCwnR.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/MT92qJQ.jpg",
+        "small": "https://i.imgur.com/b99jAu5.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/hj0gJ1q.jpg",
+        "small": "https://i.imgur.com/MAr0UA6.jpg"
+      }
+    ]
+   },
+   {
+    "id": "cfb354c4-10ba-4e1b-a699-9a517ff7cbff",
+    "title": "6.5oz Loopwheel Crew Neck T-Shirt - Black",
+    "type": "clothing",
+    "category": "t-shirts",
+    "price": 85,
+    "description": "A hefty 6.5oz loopwheel knitted cotton jersey t-shirt. Supremely soft yet extremely durable, these will hold their shape regardless of what you throw at them.",
+    "images": [
+      {
+        "regular": "https://i.imgur.com/5dZefTU.jpg",
+        "small": "https://i.imgur.com/E9aCWOl.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/e34xSdv.jpg",
+        "small": "https://i.imgur.com/9G2yqij.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/rNwrusn.jpg",
+        "small": "https://i.imgur.com/eTUqJai.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/D04qrhG.jpg",
+        "small": "https://i.imgur.com/1EJzAz3.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/L57VbLu.jpg",
+        "small": "https://i.imgur.com/DifXflv.jpg"
+      }
+    ]
+   },
+   {
+    "id": "44d44a8e-a4f9-4854-83dc-64e011911b3d",
+    "title": "21oz Non-Fade Denim Type III Vest - Superblack",
+    "type": "clothing",
+    "category": "vests",
+    "price": 314,
+    "description": "This superblack 21oz denim Type III vest is built to last, with a reactive dyed warp and weft that'll hardly fade. Made with pre-shrunk Japanese denim, and generously sized to wear over your moto-leathers. Fully customizable with our selection of woven patches.",
+    "images": [
+      {
+        "regular": "https://i.imgur.com/dCRr6R2.jpg",
+        "small": "https://i.imgur.com/WYw77Mx.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/1bj6qPH.jpg",
+        "small": "https://i.imgur.com/Lb8BtSn.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/2DMXi7g.jpg",
+        "small": "https://i.imgur.com/Lasxr6e.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/HHtkQl4.jpg",
+        "small": "https://i.imgur.com/EbETzQq.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/cnfYxMx.jpg",
+        "small": "https://i.imgur.com/EBZCnC1.jpg"
+      }
+    ]
+   },
+   {
+    "id": "3885bb13-250d-4938-bf54-ee775345b48d",
+    "title": "12oz Wabash/Duck Work Vest - Indigo/Navy",
+    "type": "clothing",
+    "category": "vests",
+    "price": 255,
+    "description": "This 12oz work vest is constructed using a indigo sulphur dyed wabash face, backed with a navy duck canvas. Easily layered over a t-shirt in the spring or under a jacket in the winter, it's a solid all year-round piece, and with the warp and weft both being rope dyed, you are sure to see plenty of evolution the more it is worn.",
+    "images": [
+      {
+        "regular": "https://i.imgur.com/3JHJ3Fx.jpg",
+        "small": "https://i.imgur.com/u9dXizM.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/HUWsdh2.jpg",
+        "small": "https://i.imgur.com/2bfgEr2.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/RF02qSh.jpg",
+        "small": "https://i.imgur.com/Xq4vo97.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/oNpjpgj.jpg",
+        "small": "https://i.imgur.com/22mF6aM.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/64iMVm9.jpg",
+        "small": "https://i.imgur.com/ZcatJY5.jpg"
+      }
+    ]
+   },
+   {
+    "id": "ec1f425a-179b-4ec6-b122-3d194762bd35",
+    "title": "Cognac Leather Boots - LITHE",
+    "type": "clothing",
+    "category": "boots",
+    "price": 255,
+    "description": "Boots for men, in leather, in cognac and with an almond toe. With elastic adjustment.",
+    "images": [
+      {
+        "regular": "https://i.imgur.com/gJFAqsj.jpg",
+        "small": "https://i.imgur.com/jArsfKR.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/hvcOGuz.jpg",
+        "small": "https://i.imgur.com/fZmd0l3.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/aGVAZzT.jpg",
+        "small": "https://i.imgur.com/d5EYMlY.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/dATmS9Q.jpg",
+        "small": "https://i.imgur.com/Nzxxav5.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/SVkfpaN.jpg",
+        "small": "https://i.imgur.com/uhO17XM.jpg"
+      }
+    ]
+   },
+   {
+    "id": "880da005-38f0-4142-858d-b8aafa9ccdd5",
+    "title": "Split Steer Modified Type III Jacket - Brown",
+    "type": "clothing",
+    "category": "jackets",
+    "price": 1120,
+    "description": "Modified Type III Jacket, made from soft split steer hide rough-out leather by FourSpeed, Japan, to Haraki's design. Modified with a slightly longer body than the original Levi's version, and with the addition of two external hand-warmer pockets, two internal snap fastened \"gun\" pockets and a cotton twill lining.",
+    "images": [
+      {
+        "regular": "https://i.imgur.com/mPPGaju.jpg",
+        "small": "https://i.imgur.com/OqYyfrU.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/QC8MCsY.jpg",
+        "small": "https://i.imgur.com/vpt8Ksa.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/SNYWhUe.jpg",
+        "small": "https://i.imgur.com/6vwyLcd.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/HFOVbXB.jpg",
+        "small": "https://i.imgur.com/kEWmYzp.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/8qkcplJ.jpg",
+        "small": "https://i.imgur.com/p7TE58V.jpg"
+      }
+    ]
+   },
+   {
+    "id": "0dd4ed5e-711a-4b8f-89d3-f6de5e41be1e",
+    "title": "Japanese Horsehide Double Motorcycle Jacket - Black",
+    "type": "clothing",
+    "category": "jackets",
+    "price": 1971,
+    "description": "Constructed from premium vegetable tanned horsehide, the leather used to create this Racing Spirit original design jacket is sourced from Himeji, the tanning capital of Japan. Pigment dyed black - meaning that once the pigment fades out, the natural leather will begin to show underneath - the contemporary design utilises a double-breasted, asymmetrical YKK zipper opening to increase wind-resistance. Other features include a snapped stand up collar, zippered pockets and cuffs and a colour-matched black polyester lining - all adding up to create the perfect blend of functionality, durability and modern style.",
+    "images": [
+      {
+        "regular": "https://i.imgur.com/m3qiaiR.jpg",
+        "small": "https://i.imgur.com/CFf3ary.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/niNtJfQ.jpg",
+        "small": "https://i.imgur.com/RK3eixi.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/KZ9Fmgf.jpg",
+        "small": "https://i.imgur.com/0nYL7wg.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/leNE8Ln.jpg",
+        "small": "https://i.imgur.com/IGfn8cm.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/N4vk7RE.jpg",
+        "small": "https://i.imgur.com/S7ob2pB.jpg"
+      }
+    ]
+   },
+   {
+    "id": "0ebd0c26-cd1f-4796-b6c2-9522112b2640",
+    "title": "Japanese Horsehide Flight Jacket",
+    "type": "clothing",
+    "category": "jackets",
+    "price": 2423,
+    "description": "This biker jacket was made in Japan from medium weight leather and features hand finished details for a vintage inspired look.",
+    "images": [
+      {
+        "regular": "https://i.imgur.com/oKGAxFW.jpg",
+        "small": "https://i.imgur.com/T1qtLKN.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/upaTjBh.jpg",
+        "small": "https://i.imgur.com/00tM4Hl.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/cUXCv8a.jpg",
+        "small": "https://i.imgur.com/0EXpI6L.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/zsfLWCe.jpg",
+        "small": "https://i.imgur.com/7C3sCn0.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/44dqzVo.jpg",
+        "small": "https://i.imgur.com/hgD9bgQ.jpg"
+      }
+    ]
+   },
+   {
+    "id": "6355f7b1-5e36-4cfa-8552-ad7e8cae5c3f",
+    "title": "Flannel Bomber Jacket",
+    "type": "clothing",
+    "category": "jackets",
+    "price": 830,
+    "description": "This midweight piece is made in Italy in a loose fitting silhouette inspired by vintage bomber jackets. Its wool blend fabric has been exclusively developed at an Italian mill that also produces exclusive Racing Spirit haberdashery fabrics.",
+    "images": [
+      {
+        "regular": "https://i.imgur.com/ptRNqck.jpg",
+        "small": "https://i.imgur.com/hfT5bb4.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/XECgGrP.jpg",
+        "small": "https://i.imgur.com/RkStY4y.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/g4nUFQy.jpg",
+        "small": "https://i.imgur.com/pYRyPNM.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/wmAYbtL.jpg",
+        "small": "https://i.imgur.com/wUVoRRg.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/y7rgPx2.jpg",
+        "small": "https://i.imgur.com/R5DxKvY.jpg"
+      }
+    ]
+   },
+   {
+    "id": "7ab250dc-0d2b-4c58-b185-0a32b7f219b5",
+    "title": "Racing Spirit x DicE 12oz Selvedge Denim Embroidered Western Shirt \"The Johnny Cash III\" - Superblack",
+    "type": "clothing",
+    "category": "shirts",
+    "price": 381,
+    "description": "This very special, limited edition collaboration between Racing Spirit, DicE Magazine and G.Miglietta comes in the form of our 12oz selvedge denim western shirt, featuring a hand-embroidered design by world-renowned chainstitch maestro, Giulio Miglietta. Both the warp and weft of the denim have been reactive dyed for a fade-resistant finish, ensuring that the yellow and white embroidery will continue to stand out in stark contrast for years to come.",
+    "images": [
+      {
+        "regular": "https://i.imgur.com/GQBxi5J.jpg",
+        "small": "https://i.imgur.com/4axJMy3.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/bhhEJKK.jpg",
+        "small": "https://i.imgur.com/6A3JOVI.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/8RPP8uB.jpg",
+        "small": "https://i.imgur.com/WETzMdU.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/QBXSZdS.jpg",
+        "small": "https://i.imgur.com/ysNwTcH.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/Xi009jf.jpg",
+        "small": "https://i.imgur.com/tJA2UJc.jpg"
+      }
+    ]
+   },
+   {
+    "id": "afc537d4-a3b2-40e6-94c4-a886dbf7c8f8",
+    "title": "11oz Cotton Whipcord Work Pants - Olive",
+    "type": "clothing",
+    "category": "trousers",
+    "price": 282,
+    "description": "Our original work pants cut, constructed from 11oz cotton whipcord. Often utilised in military wear, the tightly woven cotton twill of whipcord is renowned for its hardwearing properties, offering excellent scratch and wind resistance. Lightweight and durable, these straight cut, medium rise pants feature a four-pocket design, with heavy-duty design elements including reinforced belt loops, a Universal zipper fly and an oversized snap fastening rear pocket.",
+    "images": [
+      {
+        "regular": "https://i.imgur.com/ZQgi1QY.jpg",
+        "small": "https://i.imgur.com/jAJg8RN.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/RFjMeeN.jpg",
+        "small": "https://i.imgur.com/iF6Kt6J.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/wAjlEaT.jpg",
+        "small": "https://i.imgur.com/FVk7Jxc.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/oyPXb6Z.jpg",
+        "small": "https://i.imgur.com/m8fdZIN.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/44yRZ1o.jpg",
+        "small": "https://i.imgur.com/qZlzpA0.jpg"
+      }
+    ]
+   },
+   {
+    "id": "2e84be1b-32d3-4772-9b8d-e6d3a8910d9a",
+    "title": "9oz Mercerised Selvedge Cotton Slim Tapered Chinos - Black",
+    "type": "clothing",
+    "category": "trousers",
+    "price": 282,
+    "description": "Chinos take their name from the fabric they are made from. Chino cloth is a cotton twill originally developed for the military. This version of what is now a classic casual pant is made from 9oz Japanese selvedge chino cloth. Racing Spirit offers a number of different chino pants, this is our slim tapered, or '777' cut.",
+    "images": [
+      {
+        "regular": "https://i.imgur.com/4Y3raIn.jpg",
+        "small": "https://i.imgur.com/2CDuWYj.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/vpvhxqR.jpg",
+        "small": "https://i.imgur.com/vkqPK3P.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/rOpzEMS.jpg",
+        "small": "https://i.imgur.com/Tokhze7.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/2EAunpv.jpg",
+        "small": "https://i.imgur.com/OQDGuBB.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/OqyfUWT.jpg",
+        "small": "https://i.imgur.com/nbMx86W.jpg"
+      }
+    ]
+   },
+   {
+    "id": "6313f6e0-52e6-4552-be96-a302cd8fbcfa",
+    "title": "6.5oz Loopwheel Crew Neck T-Shirt - White",
+    "type": "clothing",
+    "category": "t-shirts",
+    "price": 85,
+    "description": "A hefty 6.5oz loopwheel knitted cotton jersey t-shirt. Supremely soft yet extremely durable, these will hold their shape regardless of what you throw at them.",
+    "images": [
+      {
+        "regular": "https://i.imgur.com/B3bXWsa.jpg",
+        "small": "https://i.imgur.com/UVOqDBY.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/E3HBG7c.jpg",
+        "small": "https://i.imgur.com/cyD6N6i.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/hOo2hLj.jpg",
+        "small": "https://i.imgur.com/SnGn7rC.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/QfcZeac.jpg",
+        "small": "https://i.imgur.com/A7TYixs.jpg"
+      }
+    ]
+   },
+   {
+    "id": "ac7f45e8-6a67-4f89-84ba-d7d75fff6ac7",
+    "title": "6.5oz Loopwheel Crew Neck T-Shirt - Olive",
+    "type": "clothing",
+    "category": "t-shirts",
+    "price": 85,
+    "description": "A hefty 6.5oz loopwheel knitted cotton jersey t-shirt. Supremely soft yet extremely durable, these will hold their shape regardless of what you throw at them.",
+    "images": [
+      {
+        "regular": "https://i.imgur.com/FibvOFb.jpg",
+        "small": "https://i.imgur.com/lnvN6h9.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/xymo6uN.jpg",
+        "small": "https://i.imgur.com/uGqVMNa.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/cu03Udj.jpg",
+        "small": "https://i.imgur.com/FwCrCa1.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/W8gT2H0.jpg",
+        "small": "https://i.imgur.com/EfzzufI.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/cuhwwoG.jpg",
+        "small": "https://i.imgur.com/Uq7716y.jpg"
+      }
+    ]
+   },
+   {
+    "id": "04d44817-130e-4841-9f80-42eb7732fcab",
+    "title": "21oz Selvedge Denim Modified Type III Vest - Indigo",
+    "type": "clothing",
+    "category": "vests",
+    "price": 314,
+    "description": "Our \"trucker\" vest in our super heavy yet super soft 21oz indigo selvedge denim, based on a traditional Type III jacket modified with a slightly longer body and side handwarmer pockets. One of our long-running Racing Spirit essentials.",
+    "images": [
+      {
+        "regular": "https://i.imgur.com/o7DwwFY.jpg",
+        "small": "https://i.imgur.com/UZtCiE2.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/PQeKo34.jpg",
+        "small": "https://i.imgur.com/CMS0Ts3.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/DQT45dJ.jpg",
+        "small": "https://i.imgur.com/zyT6WgU.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/aFzH4oT.jpg",
+        "small": "https://i.imgur.com/CU6ov6G.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/RFBIkcA.jpg",
+        "small": "https://i.imgur.com/4JUqraK.jpg"
+      }
+    ]
+   },
+   {
+    "id": "0b7c8298-ed7a-44d1-b982-50b1dc175acd",
+    "title": "Cognac Leather Boots - CHAMBERS",
+    "type": "clothing",
+    "category": "boots",
+    "price": 358,
+    "description": "Boots for men, in leather, in cognac and with an almond toe. With elastic adjustment.",
+    "images": [
+      {
+        "regular": "https://i.imgur.com/xiagEnJ.jpg",
+        "small": "https://i.imgur.com/95bvX4j.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/jaNHdIp.jpg",
+        "small": "https://i.imgur.com/IKCVMIY.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/4BL1YRG.jpg",
+        "small": "https://i.imgur.com/Hc93cPU.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/LrDY812.jpg",
+        "small": "https://i.imgur.com/HX9M2Ti.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/rLgJVbH.jpg",
+        "small": "https://i.imgur.com/ApCVSPw.jpg"
+      }
+    ]
+   },
+   {
+    "id": "5e71b6a0-4895-4f83-a470-1602d66bd5d9",
+    "title": "Locklear leather biker jacket",
+    "type": "clothing",
+    "category": "jackets",
+    "price": 1630,
+    "description": "This biker jacket was made in Italy from medium weight leather and features hand finished details for a vintage inspired look.",
+    "images": [
+      {
+        "regular": "https://i.imgur.com/2YWpVXA.jpg",
+        "small": "https://i.imgur.com/QZSd2Co.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/JXGTIZG.jpg",
+        "small": "https://i.imgur.com/JX4VbTP.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/xOfVDR9.jpg",
+        "small": "https://i.imgur.com/dGiay1R.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/2ZzcqCw.jpg",
+        "small": "https://i.imgur.com/Ncb98ZJ.jpg"
+      }
+    ]
+   },
+   {
+    "id": "05e64946-9ae7-4e66-8afc-4a72b30c6b9d",
+    "title": "Leather Biker Jacket",
+    "type": "clothing",
+    "category": "jackets",
+    "price": 2200,
+    "description": "Garment made with full-grain cowhide leather with a light and flexible texture. Chocolate brown tone with a khaki undertone. Yarn-dyed check twill lining on body. Specially designed for a vintage look.",
+    "images": [
+      {
+        "regular": "https://i.imgur.com/iDql1OE.jpg",
+        "small": "https://i.imgur.com/ynBeITQ.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/r1o5q2T.jpg",
+        "small": "https://i.imgur.com/qrghvGr.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/hzzw84v.jpg",
+        "small": "https://i.imgur.com/WQEBjwZ.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/KEkTHMu.jpg",
+        "small": "https://i.imgur.com/ESXRYU2.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/GNkLZev.jpg",
+        "small": "https://i.imgur.com/ecL8nwA.jpg"
+      }
+    ]
+   },
+   {
+    "id": "9d66aa0f-e5f2-4293-903b-34e092b26478",
+    "title": "Aged Suede Jacket",
+    "type": "clothing",
+    "category": "jackets",
+    "price": 850,
+    "description": "It has been made with aged suede. Adjustable buckle loops on the sides. Metal buttons made in the United States. Lining on the yoke, sleeves and waist.",
+    "images": [
+      {
+        "regular": "https://i.imgur.com/JRMFVz7.jpg",
+        "small": "https://i.imgur.com/4I93xkv.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/5PyGfvN.jpg",
+        "small": "https://i.imgur.com/jAfwH4e.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/8gkRyhk.jpg",
+        "small": "https://i.imgur.com/KqWQY3r.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/xqO9RxF.jpg",
+        "small": "https://i.imgur.com/4eTEbqP.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/5o61gL7.jpg",
+        "small": "https://i.imgur.com/ebXAOV8.jpg"
+      }
+    ]
+   },
+   {
+    "id": "4a467854-3e7e-4a5b-a7dd-28da50cc7f56",
+    "title": "Slim Fit Leather Biker Jacket",
+    "type": "clothing",
+    "category": "jackets",
+    "price": 978,
+    "description": "Inspired by late 1940s motorcycle jackets. Made of leather treated with a black on brown vegetable dye. The distressed finish is achieved through a multi-step process that allows the garment to wear over time. Padded elbow and shoulder pads. Cafe racer style mandarin collar. Full twill lining.",
+    "images": [
+      {
+        "regular": "https://i.imgur.com/a8JbSTg.jpg",
+        "small": "https://i.imgur.com/O3fsW00.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/G6RyXbZ.jpg",
+        "small": "https://i.imgur.com/YcADyiP.jpg"
+      }
+    ]
+   },
+   {
+    "id": "5ef751c0-b1a3-4ead-bb9b-53ff2004e3b9",
+    "title": "Ultra Heavy Flannel Buffalo Check Western Shirt - Green",
+    "type": "clothing",
+    "category": "shirts",
+    "price": 323,
+    "description": "To a great extent, our ultra heavy flannel (UHF) shirts define Racing Spirit: heavy, rugged, but amazingly wearable. The 12oz fabric is woven with Aspero cotton from the foothills of the Andes mountains. We double brush it on the inside and single brush it on the outside, resulting in a very soft yet substantial, thick, warm and windproof flannel. This shirt is a wardrobe staple - a western cut in green buffalo check.",
+    "images": [
+      {
+        "regular": "https://i.imgur.com/plwP0Qc.jpg",
+        "small": "https://i.imgur.com/ENLcpU4.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/g7XB5O1.jpg",
+        "small": "https://i.imgur.com/m1oZMeL.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/Ipy0AIw.jpg",
+        "small": "https://i.imgur.com/O08tq7D.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/pqWrj6s.jpg",
+        "small": "https://i.imgur.com/i5pNpIM.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/A9KfVsA.jpg",
+        "small": "https://i.imgur.com/BiZatPf.jpg"
+      }
+    ]
+   },
+   {
+    "id": "59dc8437-aad7-4a93-9df1-de67f4c8f559",
+    "title": "Ultra Heavy Flannel Ombré Check Western Shirt - Navy",
+    "type": "clothing",
+    "category": "shirts",
+    "price": 323,
+    "description": "We're very proud of our ultra heavy flannel (UHF) shirts. This western shirt is an exclusive Racing Spirit designed navy blue ombré check 12oz fabric, woven from Aspero cotton from the foothills of the Andes mountains, double brushed on the inside and single brushed on the outside, resulting in a very soft yet heavy, thick, warm and windproof flannel.",
+    "images": [
+      {
+        "regular": "https://i.imgur.com/1dRg61V.jpg",
+        "small": "https://i.imgur.com/2zwHMX0.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/gRsznzp.jpg",
+        "small": "https://i.imgur.com/N6cpnYF.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/d5iAEKq.jpg",
+        "small": "https://i.imgur.com/LWBjbMS.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/Ar1Lj0y.jpg",
+        "small": "https://i.imgur.com/5urRBkF.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/wVDlxeH.jpg",
+        "small": "https://i.imgur.com/JpSlN2Y.jpg"
+      }
+    ]
+   },
+   {
+    "id": "003be360-3284-481c-84dc-7cd53920999c",
+    "title": "Beige leather boots - HYNDE",
+    "type": "clothing",
+    "category": "boots",
+    "price": 312,
+    "description": "Boots for men, in leather, in cognac and with a rounded toe. With elastic adjustment.",
+    "images": [
+      {
+        "regular": "https://i.imgur.com/ECjtrxP.jpg",
+        "small": "https://i.imgur.com/hzfrBVe.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/TUdlUqP.jpg",
+        "small": "https://i.imgur.com/BR10dlW.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/31zUUkn.jpg",
+        "small": "https://i.imgur.com/mP9aNY9.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/9GKOVqc.jpg",
+        "small": "https://i.imgur.com/Y2JgB5Y.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/FVWl3BL.jpg",
+        "small": "https://i.imgur.com/USdimYd.jpg"
+      }
+    ]
+   },
+   {
+    "id": "b578e70a-53d7-4b72-9e97-5f7b6a1d1f82",
+    "title": "Racing Spirit “Bell” Print Bandana - Red",
+    "type": "accessories",
+    "category": "bandanas",
+    "price": 40,
+    "description": "Our 100% cotton selvedge bandana, featuring a Racing Spirit original paisley \"Bell\" design. The complex design has been discharge printed - a technique that removes the dye from a piece of cloth - ensuring that the intricate details within the pattern will remain clear and prominent as the fabric ages.",
+    "images": [
+      {
+        "regular": "https://i.imgur.com/YhqlSxN.jpg",
+        "small": "https://i.imgur.com/MtBVU0E.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/wRb2j7D.jpg",
+        "small": "https://i.imgur.com/o825fHg.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/IqL0fd2.jpg",
+        "small": "https://i.imgur.com/bBb0BvE.jpg"
+      }
+    ]
+   },
+   {
+    "id": "246fdc9f-5d13-4e63-94a3-9f2ffc885c1e",
+    "title": "Racing Spirit “Bell” Print Bandana - Green",
+    "type": "accessories",
+    "category": "bandanas",
+    "price": 40,
+    "description": "Our 100% cotton selvedge bandana, featuring a Racing Spirit original paisley \"Bell\" design. The complex design has been discharge printed - a technique that removes the dye from a piece of cloth - ensuring that the intricate details within the pattern will remain clear and prominent as the fabric ages.",
+    "images": [
+      {
+        "regular": "https://i.imgur.com/w1IlhXh.jpg",
+        "small": "https://i.imgur.com/DUQ5rG1.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/F5bqgDK.jpg",
+        "small": "https://i.imgur.com/RTKJgtY.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/mEQNba4.jpg",
+        "small": "https://i.imgur.com/Pq3VU6y.jpg"
+      }
+    ]
+   },
+   {
+    "id": "86d69831-c902-41c0-aa19-a8479e5931d8",
+    "title": "Club Ring Single Tone Size",
+    "type": "accessories",
+    "category": "rings",
+    "price": 655,
+    "description": "Handcrafted club ring, built from five separate solid cast .925 sterling silver components. Each signature rosette has been individually set, including one on the head, two on the shoulders, and one hidden on the gallery so only you know it's there, creating a deceptively simple, substantial, and highly detailed club band. Each GOOD ART piece is dipped in sulphuric acid before they are hand-burnished, creating an understated blackened contrast against impeccably polished highlights.",
+    "images": [
+      {
+        "regular": "https://i.imgur.com/MTdAQHE.jpg",
+        "small": "https://i.imgur.com/i2eTl9P.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/pIUogAO.jpg",
+        "small": "https://i.imgur.com/bWRycp2.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/oBvEluL.jpg",
+        "small": "https://i.imgur.com/v3gHLPN.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/r1CN46G.jpg",
+        "small": "https://i.imgur.com/niVw3KU.jpg"
+      }
+    ]
+   },
+   {
+    "id": "78c0d8e1-6dc2-4678-bbc8-a8621161138b",
+    "title": "True Love Until Death Patch",
+    "type": "accessories",
+    "category": "patches",
+    "price": 6,
+    "description": "Extra tough clothing patch prepared for ironing on, or to be directly sewn onto the garment.",
+    "images": [
+      {
+        "regular": "https://i.imgur.com/HqJho0j.jpg",
+        "small": "https://i.imgur.com/xQlCqB1.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/e4m0nK5.jpg",
+        "small": "https://i.imgur.com/dj3Ssdt.jpg"
+      }
+    ]
+   },
+   {
+    "id": "ada1fb68-3350-4dba-948e-716e648cd67a",
+    "title": "Fudog Lion Dog Patch",
+    "type": "accessories",
+    "category": "patches",
+    "price": 7,
+    "description": "Extra tough clothing patch prepared for ironing on, or to be directly sewn onto the garment.",
+    "images": [
+      {
+        "regular": "https://i.imgur.com/dGpptXs.jpg",
+        "small": "https://i.imgur.com/1JPdijo.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/IzQvXiP.jpg",
+        "small": "https://i.imgur.com/yJ366gT.jpg"
+      }
+    ]
+   },
+   {
+    "id": "b0361570-5338-4786-a855-9b49ecc576cd",
+    "title": "Hannya Oni Mask Patch",
+    "type": "accessories",
+    "category": "patches",
+    "price": 8,
+    "description": "Extra tough clothing patch prepared for ironing on, or to be directly sewn onto the garment.",
+    "images": [
+      {
+        "regular": "https://i.imgur.com/sWs4hJb.jpg",
+        "small": "https://i.imgur.com/N7RriiL.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/tc9U5WL.jpg",
+        "small": "https://i.imgur.com/G3p3AVN.jpg"
+      }
+    ]
+   },
+   {
+    "id": "89366980-d6c2-423d-9eec-a3c3a1dda4c1",
+    "title": "Body Compass Patch",
+    "type": "accessories",
+    "category": "patches",
+    "price": 6,
+    "description": "Extra tough clothing patch prepared for ironing on, or to be directly sewn onto the garment.",
+    "images": [
+      {
+        "regular": "https://i.imgur.com/ypCsVrp.jpg",
+        "small": "https://i.imgur.com/qG43BIg.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/siueZHk.jpg",
+        "small": "https://i.imgur.com/LUZgyhC.jpg"
+      }
+    ]
+   },
+   {
+    "id": "0e444f47-4564-444e-91d4-07f492d9b657",
+    "title": "Victory of Defeat Evil Patch",
+    "type": "accessories",
+    "category": "patches",
+    "price": 6,
+    "description": "Extra tough clothing patch prepared for ironing on, or to be directly sewn onto the garment.",
+    "images": [
+      {
+        "regular": "https://i.imgur.com/0HJkcIK.jpg",
+        "small": "https://i.imgur.com/UGv2tKf.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/apZP89y.jpg",
+        "small": "https://i.imgur.com/Nv2UGN8.jpg"
+      }
+    ]
+   },
+   {
+    "id": "3bd639ca-c3d5-4861-b68e-eb6db8e979e4",
+    "title": "Racing Spirit “Bell” Print Bandana - Black",
+    "type": "accessories",
+    "category": "bandanas",
+    "price": 6,
+    "description": "Our 100% cotton selvedge bandana, featuring a Racing Spirit original paisley \"Bell\" design. The complex design has been discharge printed - a technique that removes the dye from a piece of cloth - ensuring that the intricate details within the pattern will remain clear and prominent as the fabric ages.",
+    "images": [
+      {
+        "regular": "https://i.imgur.com/qwMDnMq.jpg",
+        "small": "https://i.imgur.com/EFT23eP.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/DcyakXL.jpg",
+        "small": "https://i.imgur.com/XqVgcZg.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/IPdqh4J.jpg",
+        "small": "https://i.imgur.com/kEWSd0g.jpg"
+      }
+    ]
+   },
+   {
+    "id": "b0bd401a-4b95-4f30-a459-b8753728caaf",
+    "title": "Skull Ring",
+    "type": "accessories",
+    "category": "rings",
+    "price": 166,
+    "description": "Handmade by our good friends Obbi Good Label at their workshop in Singapore. The Skull ring is part of their 'Good Luck' collection and features a skull design that is originally drawn and traced onto a wax mould before it is cast in silver.",
+    "images": [
+      {
+        "regular": "https://i.imgur.com/H6iRcDU.jpg",
+        "small": "https://i.imgur.com/rAml1pf.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/XWrBtRe.jpg",
+        "small": "https://i.imgur.com/gCPJM46.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/WVhWZRX.jpg",
+        "small": "https://i.imgur.com/MgFKpr2.jpg"
+      }
+    ]
+   },
+   {
+    "id": "71eb7c2c-609c-4acb-9281-ee95c148697f",
+    "title": "Reborn Into True Self Patch",
+    "type": "accessories",
+    "category": "patches",
+    "price": 6,
+    "description": "Extra tough clothing patch prepared for ironing on, or to be directly sewn onto the garment.",
+    "images": [
+      {
+        "regular": "https://i.imgur.com/yKg4M7Z.jpg",
+        "small": "https://i.imgur.com/M6buTaq.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/ORSIN7d.jpg",
+        "small": "https://i.imgur.com/8bKdOVV.jpg"
+      }
+    ]
+   },
+   {
+    "id": "47f23723-e9d1-4237-b96c-eecf54500832",
+    "title": "Guard Dog Komainu Patch",
+    "type": "accessories",
+    "category": "patches",
+    "price": 7,
+    "description": "Extra tough clothing patch prepared for ironing on, or to be directly sewn onto the garment.",
+    "images": [
+      {
+        "regular": "https://i.imgur.com/ltHG7P7.jpg",
+        "small": "https://i.imgur.com/Qjgc1S0.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/NaZRGDs.jpg",
+        "small": "https://i.imgur.com/s4kBw9k.jpg"
+      }
+    ]
+   },
+   {
+    "id": "db6c62ac-ca5c-4365-b33b-a81370f47adf",
+    "title": "Model 28 Ring",
+    "type": "accessories",
+    "category": "rings",
+    "price": 488,
+    "description": "Heavyweight, hand-crafted solid cast .925 sterling silver ring with contoured cutout signature rosette and GOOD ART HLYWD hallmark. Each GOOD ART HLYWD piece is dipped in sulphuric acid before they are hand-burnished, creating an understated blackened contrast against the impeccably polished highlights.",
+    "images": [
+      {
+        "regular": "https://i.imgur.com/7X038YM.jpg",
+        "small": "https://i.imgur.com/w2crL5V.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/BrtO2Qm.jpg",
+        "small": "https://i.imgur.com/ncNVJve.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/zE8RxNf.jpg",
+        "small": "https://i.imgur.com/Eji4jEb.jpg"
+      }
+    ]
+   },
+   {
+    "id": "dedf67e4-c08c-4577-b40c-e7bcfc43612c",
+    "title": "Slim Nixon Ring Goosebump",
+    "type": "accessories",
+    "category": "rings",
+    "price": 458,
+    "description": "A lightweight, streamlined version of the original twisty classic.",
+    "images": [
+      {
+        "regular": "https://i.imgur.com/qrsQPmK.jpg",
+        "small": "https://i.imgur.com/gfyh6ow.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/TfzMwtu.jpg",
+        "small": "https://i.imgur.com/xLpfTXJ.jpg"
+      }
+    ]
+   },
+   {
+    "id": "e705e7cb-b539-42fc-a97a-9c1aa1906873",
+    "title": "Red Rose Patch",
+    "type": "accessories",
+    "category": "patches",
+    "price": 5,
+    "description": "Extra tough clothing patch prepared for ironing on, or to be directly sewn onto the garment.",
+    "images": [
+      {
+        "regular": "https://i.imgur.com/TWiPVt1.jpg",
+        "small": "https://i.imgur.com/Rmrq0UN.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/BDh6U7J.jpg",
+        "small": "https://i.imgur.com/5KWKzi2.jpg"
+      }
+    ]
+   },
+   {
+    "id": "a9c054e9-d389-4fa2-88a1-0defe3e62106",
+    "title": "L'amour on s'elance Patch",
+    "type": "accessories",
+    "category": "patches",
+    "price": 6,
+    "description": "Extra tough clothing patch prepared for ironing on, or to be directly sewn onto the garment.",
+    "images": [
+      {
+        "regular": "https://i.imgur.com/8kEp24g.jpg",
+        "small": "https://i.imgur.com/nWAD4ei.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/T1LzDXA.jpg",
+        "small": "https://i.imgur.com/QVoreDV.jpg"
+      }
+    ]
+   },
+   {
+    "id": "9eecf5da-f37d-4bd4-8ef8-e063b6f2d6f6",
+    "title": "From Death To Life Patch",
+    "type": "accessories",
+    "category": "patches",
+    "price": 6,
+    "description": "Extra tough clothing patch prepared for ironing on, or to be directly sewn onto the garment.",
+    "images": [
+      {
+        "regular": "https://i.imgur.com/cSaOsAv.jpg",
+        "small": "https://i.imgur.com/TqvChlu.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/s8I9RYH.jpg",
+        "small": "https://i.imgur.com/hWEg6qB.jpg"
+      }
+    ]
+   },
+   {
+    "id": "9ae6231c-253a-46b1-b322-21634ca0289c",
+    "title": "Astronaut Lost In Space",
+    "type": "accessories",
+    "category": "patches",
+    "price": 6,
+    "description": "Extra tough clothing patch prepared for ironing on, or to be directly sewn onto the garment.",
+    "images": [
+      {
+        "regular": "https://i.imgur.com/XY1IBSn.jpg",
+        "small": "https://i.imgur.com/JJv9LX9.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/ZFLMpIe.jpg",
+        "small": "https://i.imgur.com/0i1gjJg.jpg"
+      }
+    ]
+   },
+   {
+    "id": "eb6c06be-6176-4c46-96fb-4ac9189e552a",
+    "title": "Racing Spirit “Bell” Print Bandana - Blue",
+    "type": "accessories",
+    "category": "bandanas",
+    "price": 40,
+    "description": "Our 100% cotton selvedge bandana, featuring a Racing Spirit original paisley \"Bell\" design. The complex design has been discharge printed - a technique that removes the dye from a piece of cloth - ensuring that the intricate details within the pattern will remain clear and prominent as the fabric ages.",
+    "images": [
+      {
+        "regular": "https://i.imgur.com/HdZAjBB.jpg",
+        "small": "https://i.imgur.com/jLPrDHG.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/7iB9dDA.jpg",
+        "small": "https://i.imgur.com/2whUEQY.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/qvKK8MA.jpg",
+        "small": "https://i.imgur.com/iYcdXHC.jpg"
+      }
+    ]
+   },
+   {
+    "id": "90e24fdc-23c0-4dbd-8886-e5921ddf3764",
+    "title": "Racing Spirit “Bell” Print Bandana - Purple",
+    "type": "accessories",
+    "category": "bandanas",
+    "price": 40,
+    "description": "Our 100% cotton selvedge bandana, featuring a Racing Spirit original paisley \"Bell\" design. The complex design has been discharge printed - a technique that removes the dye from a piece of cloth - ensuring that the intricate details within the pattern will remain clear and prominent as the fabric ages.",
+    "images": [
+      {
+        "regular": "https://i.imgur.com/TjSmWFv.jpg",
+        "small": "https://i.imgur.com/hs3MVfE.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/0QTs2jj.jpg",
+        "small": "https://i.imgur.com/TFo78ul.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/1uMA6wg.jpg",
+        "small": "https://i.imgur.com/O2G7eRz.jpg"
+      }
+    ]
+   },
+   {
+    "id": "412efdf8-6303-441a-839c-5c6421a7aac5",
+    "title": "Steal Your Rosette Ring",
+    "type": "accessories",
+    "category": "rings",
+    "price": 626,
+    "description": "Hand-crafted solid cast .925 sterling silver ring featuring Good Art HLYWD's rosette covering the upper half of a skull. Each GOOD ART HLYWD piece is dipped in sulphuric acid before they are hand-burnished, creating an understated blackened contrast against the impeccably polished highlights.",
+    "images": [
+      {
+        "regular": "https://i.imgur.com/K9CxivC.jpg",
+        "small": "https://i.imgur.com/Uj5Ke9X.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/027lQDf.jpg",
+        "small": "https://i.imgur.com/9DdcN9l.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/hy1rpZM.jpg",
+        "small": "https://i.imgur.com/JY3IsOh.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/gGgZ6Ku.jpg",
+        "small": "https://i.imgur.com/9i93wTE.jpg"
+      }
+    ]
+   },
+   {
+    "id": "879ddff7-91d1-41a4-b9b4-996da1b6b49b",
+    "title": "Cupid With Gun",
+    "type": "accessories",
+    "category": "patches",
+    "price": 5,
+    "description": "Extra tough clothing patch prepared for ironing on, or to be directly sewn onto the garment.",
+    "images": [
+      {
+        "regular": "https://i.imgur.com/eZc4YBZ.jpg",
+        "small": "https://i.imgur.com/6HLSWDC.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/tbGL0eI.jpg",
+        "small": "https://i.imgur.com/QNW3bTb.jpg"
+      }
+    ]
+   }
   ]
 }
