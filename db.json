@@ -265,6 +265,24 @@
         "small": "https://i.imgur.com/Ncb98ZJ.jpg"
       }
     ]
+   },
+   {
+    "id": "879ddff7-91d1-41a4-b9b4-996da1b6b49b",
+    "title": "Cupid With Gun",
+    "type": "accessories",
+    "category": "patches",
+    "price": 5,
+    "description": "Extra tough clothing patch prepared for ironing on, or to be directly sewn onto the garment.",
+    "images": [
+      {
+        "regular": "https://i.imgur.com/eZc4YBZ.jpg",
+        "small": "https://i.imgur.com/6HLSWDC.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/tbGL0eI.jpg",
+        "small": "https://i.imgur.com/QNW3bTb.jpg"
+      }
+    ]
    }
   ]
 }
