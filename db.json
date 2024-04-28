@@ -239,6 +239,32 @@
         "small": "https://i.imgur.com/hgD9bgQ.jpg"
       }
     ]
+   },
+   {
+    "id": "5e71b6a0-4895-4f83-a470-1602d66bd5d9",
+    "title": "Locklear leather biker jacket",
+    "type": "clothing",
+    "category": "jackets",
+    "price": 1630,
+    "description": "This biker jacket was made in Italy from medium weight leather and features hand finished details for a vintage inspired look.",
+    "images": [
+      {
+        "regular": "https://i.imgur.com/2YWpVXA.jpg",
+        "small": "https://i.imgur.com/QZSd2Co.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/JXGTIZG.jpg",
+        "small": "https://i.imgur.com/JX4VbTP.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/xOfVDR9.jpg",
+        "small": "https://i.imgur.com/dGiay1R.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/2ZzcqCw.jpg",
+        "small": "https://i.imgur.com/Ncb98ZJ.jpg"
+      }
+    ]
    }
   ]
 }
