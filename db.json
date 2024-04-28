@@ -181,6 +181,36 @@
     ]
    },
    {
+    "id": "880da005-38f0-4142-858d-b8aafa9ccdd5",
+    "title": "Split Steer Modified Type III Jacket - Brown",
+    "type": "clothing",
+    "category": "jackets",
+    "price": 1120,
+    "description": "Modified Type III Jacket, made from soft split steer hide rough-out leather by FourSpeed, Japan, to Haraki's design. Modified with a slightly longer body than the original Levi's version, and with the addition of two external hand-warmer pockets, two internal snap fastened \"gun\" pockets and a cotton twill lining.",
+    "images": [
+      {
+        "regular": "https://i.imgur.com/mPPGaju.jpg",
+        "small": "https://i.imgur.com/OqYyfrU.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/QC8MCsY.jpg",
+        "small": "https://i.imgur.com/vpt8Ksa.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/SNYWhUe.jpg",
+        "small": "https://i.imgur.com/6vwyLcd.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/HFOVbXB.jpg",
+        "small": "https://i.imgur.com/kEWmYzp.jpg"
+      },
+      {
+        "regular": "https://i.imgur.com/8qkcplJ.jpg",
+        "small": "https://i.imgur.com/p7TE58V.jpg"
+      }
+    ]
+   },
+   {
     "id": "0ebd0c26-cd1f-4796-b6c2-9522112b2640",
     "title": "Japanese Horsehide Flight Jacket",
     "type": "clothing",
